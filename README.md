@@ -21,13 +21,7 @@ This query helped identify the skills most frequently requested in job postings,
 
 [SQL Query](/queries_sql/)
 
-| Skills   | Demand Count |
-| -------- | ------------ |
-| SQL      | 7291         |
-| Excel    | 4611         |
-| Python   | 4330         |
-| Tableau  | 3745         |
-| Power BI | 2609         |
+![Demand_Count_by_Skills.png](/Assets/Demand_Count_by_Skills.png)
 
 - **SQL** and **Excel** remain fundamental, emphasizing the need for strong foundational skills in data processing and spreadsheet manipulation.
 - Programming and Visualization Tools like **Python**, **Tableau**, and **Power BI** are essential, pointing towards the increasing importance of technical skills in data storytelling and decision support.
@@ -38,13 +32,7 @@ Exploring the average salaries associated with different skills revealed which s
 
 [SQL Query](/queries_sql/)
 
-| Skills    | Average Salary ($) |
-| --------- | -----------------: |
-| pyspark   |            208,172 |
-| bitbucket |            189,155 |
-| couchbase |            160,515 |
-| watson    |            160,515 |
-| datarobot |            155,486 |
+![Average_Salary_by_Skills.png](/Assets/Average_Salary_by_Skills.png)
 
 - **PySpark** leads the list with the highest salary, reflecting the high demand for big data processing skills.
 
@@ -58,13 +46,7 @@ Combining insights from demand and salary data, this query aimed to pinpoint ski
 
 [SQL Query](/queries_sql/)
 
-| Skills     | Demand Count | Average Salary ($) |
-| ---------- | ------------ | -----------------: |
-| go         | 27           |            115,320 |
-| confluence | 11           |            114,210 |
-| hadoop     | 22           |            113,193 |
-| snowflake  | 37           |            112,948 |
-| azure      | 34           |            111,225 |
+![Most_Optimal_Skills_to_Learn.png](/Assets/Most_Optimal_Skills_to_Learn.png)
 
 - **Go** stands out with the highest salary ($115K) and strong demand (27 job postings), indicating it's a highly sought-after skill in the Data Analyst field.
 
