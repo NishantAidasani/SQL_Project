@@ -47,7 +47,7 @@ Combining insights from demand and salary data, this query aimed to pinpoint ski
 
 [SQL Query](/queries_sql/)
 
-![Most_Optimal_Skills_to_Learn.png](/Assets/Most_Optimal_Skills_to_Learn.png)
+![Most_Optimal_Skills_to_Learn2.png](/Assets/Most_Optimal_Skills_to_Learn2.png)
 
 - **Go** stands out with the highest salary ($115K) and strong demand (27 job postings), indicating it's a highly sought-after skill in the Data Analyst field.
 
