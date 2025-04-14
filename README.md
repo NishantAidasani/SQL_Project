@@ -11,6 +11,7 @@ Questions to Analyze:
 - SQL
 - PostgreSQL
 - Visual Studio Code
+- Power BI
 - Git & GitHub
 
 # The Analysis
